@@ -1,0 +1,26 @@
+body {
+  font-family:sans-serif;
+  font-style:italic;
+  font-weight:bolder;
+  text-align:center;
+}
+
+#btn-custom {
+  margin: 50px auto;
+  background-color: lightblue;
+}
+
+#circle {
+  margin: 50px auto;
+  height: 100px;
+  width: 100px;
+  border-radius: 100%;
+  background-color:yellow;
+}
+
+#square {
+  margin: 50px auto;
+  height: 100px;
+  width: 100px;
+  background-color:red;
+}

@@ -47,9 +47,6 @@ $('div').toggle(
 );
 
 
-
-
-
 // and finally the hover event
 $('.square').hover(function() {
   $(this).css('width', '400px');
